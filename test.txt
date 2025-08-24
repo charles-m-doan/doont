@@ -1,3 +1,1 @@
-this is some text to test reading a file from github via REST call
-more text here to test multi-line...
-adding even more text... to see if these changes are reflected in the app.
+changing test text
